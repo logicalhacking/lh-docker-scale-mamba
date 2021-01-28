@@ -1,7 +1,8 @@
 # [Dockerfiles for Isabelle and Related Projects](https://git.logicalhacking.com/lh-docker/lh-docker-scale-mamba)
 
 This repository contains Dockerfiles for running [SCALE-MAMBA](https://github.com/KULeuven-COSIC/SCALE-MAMBA)
-and projects based on [SCALE-MAMBA](https://github.com/KULeuven-COSIC/SCALE-MAMBA).
+and projects based on [SCALE-MAMBA](https://github.com/KULeuven-COSIC/SCALE-MAMBA). The Dockerfiles are 
+tested with [podman](https://podman.io/) and [Docker](https://www.docker.com). 
 
 ## List of Dockerfiles
 

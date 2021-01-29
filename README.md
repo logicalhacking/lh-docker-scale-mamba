@@ -6,9 +6,13 @@ tested with [podman](https://podman.io/) and [Docker](https://www.docker.com).
 
 ## List of Dockerfiles
 
-* [scale-mamba-1.11](scale-mamba-1.11/Dockerfile) provides SCALE-MAMBA 1.11.
+* [scale-mamba-1.11](scale-mamba-1.11/Dockerfile) provides SCALE-MAMBA 1.11. Available on docker hub as:
+    
+    * [logicalhacking/scale-mamba-1.11](https://hub.docker.com/r/logicalhacking/scale-mamba-1.11)
 
-* [scale-mamba-1.5](scale-mamba-1.5/Dockerfile) provides SCALE-MAMBA 1.5.
+* [scale-mamba-1.5](scale-mamba-1.5/Dockerfile) provides SCALE-MAMBA 1.5. Available on docker hub as:
+
+    * [logicalhacking/scale-mamba-1.5](https://hub.docker.com/r/logicalhacking/scale-mamba-1.5)
 
 ## Authors
 
